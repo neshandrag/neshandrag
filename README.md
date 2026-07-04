@@ -1,157 +1,171 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2563EB,50:06B6D4,100:7C3AED&text=Neshandra%20G&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Problem%20Solver&descAlignY=60"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,35:3B82F6,70:06B6D4,100:7C3AED&text=Neshandra%20G&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+
 </p>
 
-<h1 align="center">Hi 👋, I'm Neshandra G</h1>
+<h3 align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Product+Builder;400%2B+LeetCode+Problems;Hackathon+Enthusiast;Building+Products+That+Matter"/>
+
+</h3>
+
+---
 
 <p align="center">
-Passionate about building scalable web applications, AI-powered products, and solving real-world problems through technology.
+
+<img src="https://img.shields.io/badge/CGPA-9.20-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-ImpactX%20Top%2050-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hackathons-20%2B-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Information%20Technology-CIT-1F2937?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Chennai-India-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-06B6D4?style=flat-square"/>
+
 </p>
 
 ---
 
-# 💻 Terminal
+# 💻 terminal
 
 ```bash
 > whoami
 
 Name        :: Neshandra G
 
-Role        :: Full Stack Developer
-
 Education   :: B.Tech Information Technology
-               Chennai Institute of Technology
+
+College     :: Chennai Institute of Technology
 
 CGPA        :: 9.20 / 10
 
 Location    :: Chennai, India
 
-Focus       :: AI • Full Stack • Cloud • System Design
+Current     :: Building AI Products
 
-Mission     :: Build products that solve real problems.
+Goal        :: Software Engineer
 ```
 
 ---
 
-# 🚀 Featured Builds
+# ⚡ currently.exe
 
-<div align="center">
+```python
+class Developer:
 
-| 🚛 **TransSmart** | 🏢 **CITBIF** |
-|:--|:--|
-| AI Logistics Platform | Startup Management Platform |
-| React • Node.js • MongoDB | MERN • PostgreSQL |
+    def __init__(self):
 
-| 🤖 **RuleWiser** | 🏥 **Quro** |
-|:--|:--|
-| AI Reddit Moderator | Smart Queue Management |
-| Devvit • Redis | JavaScript |
+        self.building = [
 
-| ⚡ **EVBot** | 📈 **StockQ** |
-|:--|:--|
-| AI EV Recommendation System | ML Stock Prediction |
-| Python • Flask | Python • Machine Learning |
+            "AI Powered Applications",
 
-</div>
+            "Modern Full Stack Products",
+
+            "Open Source Projects"
+
+        ]
+
+        self.learning = [
+
+            "LLMs",
+
+            "Cloud",
+
+            "System Design"
+
+        ]
+
+        self.status = "Always Learning."
+
+me = Developer()
+```
+
+---
+
+# 🚀 Featured Projects
+
+| 🚛 TransSmart | 🤖 RuleWiser |
+|--------------|-------------|
+| AI Logistics Platform | Reddit AI Moderator |
+| React • Node • MongoDB | Devvit • Redis |
+
+| 🏥 Quro | 📈 StockQ |
+|--------------|-------------|
+| Smart Queue System | ML Stock Prediction |
+| JavaScript | Python |
+
+| ⚡ EVBot | 🏢 CITBIF |
+|--------------|-------------|
+| AI EV Advisor | Startup Platform |
+| Flask | MERN |
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+### Languages
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`C++` `Java` `Python` `JavaScript` `TypeScript` `SQL`
 
-- C++
-- Java
-- Python
-- JavaScript
-- TypeScript
-- SQL
+### Frontend
 
-## 🌐 Frontend
+`React`
+`Next.js`
+`Tailwind`
+`HTML`
+`CSS`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Backend
 
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
+`Node.js`
+`Express`
+`MongoDB`
+`PostgreSQL`
 
-## ⚙ Backend
+### AI
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`Python`
+`Machine Learning`
+`Claude API`
+`Groq API`
 
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- REST APIs
+### Tools
 
-## 🤖 AI & ML
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-- Python
-- Machine Learning
-- Claude API
-- Groq API
-- Prompt Engineering
-
-## 🛠 Tools
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
+`Git`
+`GitHub`
+`VS Code`
+`Postman`
+`Figma`
 
 ---
 
-# 📅 Journey
+# 🏆 Achievements
 
-## 🎓 2024
+✔ 400+ LeetCode Problems
 
-- Started B.Tech Information Technology
-- Chennai Institute of Technology
+✔ 1550+ Rating
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✔ AWS ImpactX Top 50
 
-## 🚀 2025
+✔ 20+ National Hackathons
 
-- 💼 CITBIF Internship
-- 🤖 Shell Skills4Future Internship
-- 🏆 AWS ImpactX Challenge — Top 50 Team
-- 🚀 Participated in 20+ National Hackathons
+✔ AQVH Finalist
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## ⚡ 2026
-
-- Building AI-powered Products
-- Contributing to Open Source
-- Preparing for Software Engineering Internships
+✔ ServiceNow 20+ Badges
 
 ---
 
-# 🏆 Highlights
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-- 💻 Solved **400+ LeetCode Problems**
-- ⭐ **1550+ LeetCode Rating**
-- 🥇 AWS ImpactX Challenge — Top 50 Team
-- 🚀 Participated in **20+ National Hackathons**
-- 🏅 AQVH Hackathon Finalist
-- 🏅 Zenith Hyderabad Final Round
-- 💙 Earned **20+ ServiceNow Badges**
-
----
-
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -169,56 +183,42 @@ Mission     :: Build products that solve real problems.
 
 ---
 
-# 🌱 Current Focus
+# 🌱 Currently Exploring
 
-```python
-class Developer:
-
-    def __init__(self):
-
-        self.building = [
-            "AI Products",
-            "Full Stack Applications"
-        ]
-
-        self.learning = [
-            "Large Language Models",
-            "Cloud Computing",
-            "System Design"
-        ]
-
-        self.goal = "Software Engineering Internship"
-
-
-me = Developer()
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=06B6D4&width=850&lines=Building+AI+Applications...;Learning+Cloud+Technologies...;Exploring+System+Design...;Preparing+for+SDE+Internships...;Contributing+to+Open+Source..."/>
 
 ---
 
-# 🎯 Beyond Code
+# ☕ Beyond Code
 
-- 🎨 UI & UX Design
-- 🧩 Competitive Programming
-- 📚 Reading Tech Blogs
-- 🚀 Hackathons
-- ☕ Coffee + Code
+🎨 UI Design
+
+⚡ Hackathons
+
+📚 Reading
+
+💡 AI Innovation
+
+🏸 Badminton
+
+🎵 Music
 
 ---
 
-# 📬 Let's Connect
+# 📬 Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/neshandra-g286">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/neshandrag">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:neshandra07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -226,9 +226,13 @@ me = Developer()
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:2563EB,50:06B6D4,100:7C3AED&height=120"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6C63FF,50:06B6D4,100:7C3AED"/>
+
 </p>
 
 <h3 align="center">
-✨ Turning ideas into impactful software. ✨
+
+<i>"Turning ideas into impactful software."</i>
+
 </h3>
