@@ -30,7 +30,6 @@
 
 <img src="https://img.shields.io/badge/Location-Chennai,%20India-2563EB?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Role-Aspiring%20Software%20Development%20Engineer-06B6D4?style=flat-square"/>
 
 </p>
 
@@ -153,28 +152,7 @@ me = Developer()
 
 ---
 
-# Featured Projects
 
-<div align="center">
-
-| <h3>🚛 TransSmart</h3> | <h3>🤖 RuleWiser</h3> |
-|:----------------------:|:--------------------:|
-| AI-powered logistics optimization platform | Intelligent Reddit moderation using AI |
-| **React • Node.js • MongoDB** | **Devvit • Redis** |
-
-| <h3>🏥 Quro</h3> | <h3>⚡ EVBot</h3> |
-|:----------------:|:----------------:|
-| Smart hospital queue management | AI-powered EV recommendation system |
-| **JavaScript • Firebase** | **Python • Flask** |
-
-| <h3>📈 StockQ</h3> | <h3>🏢 CITBIF</h3> |
-|:------------------:|:------------------:|
-| Machine learning stock prediction | Startup incubation management platform |
-| **Python • Scikit-Learn** | **MERN • PostgreSQL** |
-
-</div>
-
----
 
 
 # Achievements
