@@ -1,240 +1,119 @@
-<!-- Banner -->
-<h1 align="center">Neshandra G</h1>
-<h3 align="center">
-Aspiring Full Stack Developer • AI Builder • Problem Solver
-</h3>
+
+# <p align="center">🚀 Neshandra G</p>
 
 <p align="center">
-Building AI-powered products that solve real-world problems 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:06B6D4,100:9333EA&text=Neshandra%20G&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Problem%20Solver"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;400%2B+LeetCode+Problems;20%2B+Hackathons;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;400%2B+LeetCode+Problems;20%2B+Hackathons;Building+Products+That+Matter"/>
 </p>
 
----
-
 <p align="center">
-
-![](https://img.shields.io/badge/CGPA-9.20%20%2F%2010-success?style=for-the-badge)
-![](https://img.shields.io/badge/LeetCode-400%2B%20Solved-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Hackathons-20%2B-blue?style=for-the-badge)
-![](https://img.shields.io/badge/AWS%20ImpactX-Top%2050-yellow?style=for-the-badge)
-![](https://img.shields.io/badge/ServiceNow-20%2B%20Badges-brightgreen?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/CGPA-9.20/10-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-400%2B-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20ImpactX-Top%2050-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathons-20%2B-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ServiceNow-20%2B%20Badges-success?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧭 Who I Am
+# 🧭 About Me
 
 ```yaml
-name        : Neshandra G
-college     : Chennai Institute of Technology
-degree      : B.Tech Information Technology
-location    : Chennai, Tamil Nadu, India
+Name      : Neshandra G
+Degree    : B.Tech Information Technology
+College   : Chennai Institute of Technology
+CGPA      : 9.20 / 10
+Location  : Tamil Nadu, India
 
-cgpa        : 9.20 / 10
-
-currently   :
+Currently:
   - Full Stack Development
   - AI Applications
   - LLM Workflows
   - System Design
 
-superpower  : Turning ideas into working products within hackathon deadlines
-
-vibe        : "Code. Build. Learn. Repeat."
+Mission:
+  Build software that solves real-world problems.
 ```
 
----
-
-# 🚀 Featured Products
+# 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🚛 TransSmart | AI-powered logistics platform with truck matching, route optimization & real-time tracking |
-| 🏢 CITBIF | Startup incubation management platform with investor & mentorship workflows |
-| 🤖 RuleWiser | Reddit moderation assistant using AI & Devvit |
-| 🩺 Pulse | Smart HR & Employee Management platform |
-| ⚡ EVBot | AI-powered EV charging prediction assistant |
-| 🚀 QLaunch | DAO deployment & governance platform |
-| 🏥 Quro | Smart clinic queue management |
-| 📄 Resume Analyzer | AI Resume Evaluation Tool |
-| 💬 Prompt2Text | Prompt Engineering Utility |
-| 📈 StockQ | AI Stock Analysis Platform |
-| 🛡 SupportIQ | AI Customer Support Assistant |
+|---------|-------------|
+| Pulse | AI-powered HR platform |
+| CITBIF | Startup incubation management platform |
+| RuleWiser | Reddit AI moderation assistant |
+| TransSmart | AI logistics platform |
+| QLaunch | DAO deployment platform |
+| Quro | Digital clinic queue |
+| EVBot | AI EV maintenance advisor |
+| ResumeAnalyzer | Resume analysis tool |
+| SupportIQ | AI customer support |
+| StockQ | AI stock insights |
 
----
+# ⚙️ Tech Stack
 
-# 🛠 Tech Stack
-
-## Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-
-## Frontend
-
-React • Next.js • Tailwind CSS • HTML • CSS • Framer Motion
-
-## Backend
-
-Node.js • Express.js • MongoDB • PostgreSQL • Socket.IO
-
-## AI / ML
-
-Python • LLMs • Claude API • Groq AI • Machine Learning
-
-## Tools
-
-Git • GitHub • VS Code • Postman • Firebase
-
----
-
-# 📅 Journey
-
-```text
-2024 ─────────────────────────────────────────────
-
-🎓 Joined Chennai Institute of Technology
-
-↓
-
-2025
-
-🏆 AWS ImpactX Challenge
-Top 50 Team
-
-⚡ CITBIF Internship
-
-🤖 Shell Skills4Future Internship
-
-🏅 20+ Hackathons
-
-💻 400+ LeetCode Problems
-
-🌟 20+ ServiceNow Badges
-
-↓
-
-2026
-
-🚀 Building scalable AI products
-
-🤖 Exploring LLM Agents
-
-📈 Open Source Contributions
-
-✨ Looking for Software Engineering Internships
-```
-
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,firebase"/>
+</p>
 
 # 🏆 Achievements
 
-🏅 400+ Problems Solved on LeetCode
+- 🥇 AWS ImpactX Challenge — Top 50
+- 💻 400+ LeetCode Problems (1550+ Rating)
+- 🚀 20+ National Hackathons
+- 🏅 AQVH'25 Finalist
+- ⭐ Zenith Hyderabad Final Round
+- 🎖️ 20+ ServiceNow Badges
 
-🏅 1550+ LeetCode Rating
-
-🏅 Top 50 — AWS ImpactX Challenge
-
-🏅 AQVH'25 Finalist
-
-🏅 Zenith Hyderabad Final Round
-
-🏅 20+ National Hackathons
-
-🏅 20+ ServiceNow Badges
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=neshandrag&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshandrag&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=neshandrag&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshandrag&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=neshandrag&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=neshandrag&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neshandrag&theme=tokyo-night"/>
+</p>
 
-# 🌱 Currently
+# 🌱 Current Focus
 
 ```python
 nesh = {
-
-    "building" : [
-        "AI Products",
-        "Full Stack Applications",
-        "Open Source Projects"
-    ],
-
-    "learning" : [
-        "LLM Agents",
-        "MLOps",
-        "Cloud",
-        "System Design"
-    ],
-
-    "interested_in" : [
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Hackathons",
-        "Open Source"
-    ],
-
-    "open_to" : [
-        "Internships",
-        "Collaborations",
-        "Freelance",
-        "Hackathons"
-    ]
+ "building":["AI Products","Open Source","Full Stack Apps"],
+ "learning":["LLM Agents","Cloud","MLOps","System Design"],
+ "open_to":["Internships","Hackathons","Collaborations"]
 }
 ```
 
----
-
-# 🎯 Beyond Coding
-
-🎨 UI Design
-
-📚 Learning New Technologies
-
-🏆 Competitive Programming
-
-🚀 Building Startups
-
-✈️ Hackathons
-
----
-
-# 📫 Connect With Me
-
-📧 Email:
-**neshandra07@gmail.com**
-
-💼 LinkedIn:
-https://linkedin.com/in/neshandra-g286
-
-💻 GitHub:
-https://github.com/neshandrag
-
----
+# 🌐 Connect
 
 <p align="center">
 
-### ⭐ "Great software isn't just built—it solves real problems for real people."
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/neshandrag)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neshandra-g286)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:neshandra07@gmail.com)
 
 </p>
+
+# 🐍 Contribution Snake
+
+```text
+Create a GitHub Action using:
+Platane/snk
+Output:
+dist/github-contribution-grid-snake.svg
+```
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:4F46E5,50:06B6D4,100:9333EA"/>
+</p>
+
+> ⭐ *Code. Build. Learn. Repeat.*
