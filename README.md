@@ -307,16 +307,6 @@ while(alive){
 
 ---
 
-# Random Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 # Thanks for Visiting
 
 <div align="center">
