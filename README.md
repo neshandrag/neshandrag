@@ -71,31 +71,7 @@ Mission     :: Turning ideas into impactful software.
 
 ---
 
-## Current Focus
 
-```python
-class Developer:
-
-    def __init__(self):
-
-        self.building = [
-            "AI Powered Applications",
-            "Full Stack Web Applications",
-            "Real World Solutions"
-        ]
-
-        self.learning = [
-            "Large Language Models",
-            "Cloud Computing",
-            "System Design"
-        ]
-
-        self.goal = "Become a Software Development Engineer"
-
-me = Developer()
-```
-
----
 
 # Tech Stack
 
