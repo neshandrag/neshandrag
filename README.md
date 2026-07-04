@@ -1,42 +1,12 @@
-<p align="center">
+# Hi, I'm Neshandra G
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,35:3B82F6,70:06B6D4,100:7C3AED&text=Neshandra%20G&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+### Aspiring Software Development Engineer
 
-</p>
-
-<h3 align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Product+Builder;400%2B+LeetCode+Problems;Hackathon+Enthusiast;Building+Products+That+Matter"/>
-
-</h3>
+> **Budding engineer with a burning desire to learn and grow. Skilled in problem-solving and innovation, with the ability to collaborate effectively in teams to tackle challenges and deliver impactful solutions.**
 
 ---
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/CGPA-9.20-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AWS-ImpactX%20Top%2050-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hackathons-20%2B-success?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Information%20Technology-CIT-1F2937?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Chennai-India-7C3AED?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-06B6D4?style=flat-square"/>
-
-</p>
-
----
-
-# 💻 terminal
+## About Me
 
 ```bash
 > whoami
@@ -51,14 +21,16 @@ CGPA        :: 9.20 / 10
 
 Location    :: Chennai, India
 
-Current     :: Building AI Products
+Role        :: Aspiring Software Development Engineer
 
-Goal        :: Software Engineer
+Focus       :: Full Stack Development • Artificial Intelligence • Cloud Computing
+
+Mission     :: Building technology that creates real-world impact.
 ```
 
 ---
 
-# ⚡ currently.exe
+## Current Focus
 
 ```python
 class Developer:
@@ -66,106 +38,105 @@ class Developer:
     def __init__(self):
 
         self.building = [
-
-            "AI Powered Applications",
-
-            "Modern Full Stack Products",
-
+            "AI Applications",
+            "Full Stack Web Applications",
             "Open Source Projects"
-
         ]
 
         self.learning = [
-
-            "LLMs",
-
-            "Cloud",
-
+            "Large Language Models",
+            "Cloud Computing",
             "System Design"
-
         ]
 
-        self.status = "Always Learning."
+        self.goal = "Become a Software Development Engineer"
+
 
 me = Developer()
 ```
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-| 🚛 TransSmart | 🤖 RuleWiser |
-|--------------|-------------|
-| AI Logistics Platform | Reddit AI Moderator |
-| React • Node • MongoDB | Devvit • Redis |
-
-| 🏥 Quro | 📈 StockQ |
-|--------------|-------------|
-| Smart Queue System | ML Stock Prediction |
-| JavaScript | Python |
-
-| ⚡ EVBot | 🏢 CITBIF |
-|--------------|-------------|
-| AI EV Advisor | Startup Platform |
-| Flask | MERN |
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **TransSmart** | AI-powered logistics optimization platform | React • Node.js • MongoDB |
+| **RuleWiser** | AI Reddit moderation system | Devvit • Redis |
+| **Quro** | Smart hospital queue management | JavaScript |
+| **StockQ** | Machine learning stock prediction | Python • ML |
+| **EVBot** | AI electric vehicle recommendation system | Flask • Python |
+| **CITBIF** | Startup incubation management platform | MERN • PostgreSQL |
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
+
+<div align="center">
 
 ### Languages
 
-`C++` `Java` `Python` `JavaScript` `TypeScript` `SQL`
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
+<br><br>
 
-`React`
-`Next.js`
-`Tailwind`
-`HTML`
-`CSS`
+### Frontend & UI
 
-### Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-`Node.js`
-`Express`
-`MongoDB`
-`PostgreSQL`
+<br><br>
 
-### AI
+### Backend & Database
 
-`Python`
-`Machine Learning`
-`Claude API`
-`Groq API`
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-202020?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br><br>
+
+### AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-7C6CF2?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0EA5E9?style=for-the-badge)
+
+<br><br>
 
 ### Tools
 
-`Git`
-`GitHub`
-`VS Code`
-`Postman`
-`Figma`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma)
+
+</div>
 
 ---
 
-# 🏆 Achievements
+## Achievements
 
-✔ 400+ LeetCode Problems
-
-✔ 1550+ Rating
-
-✔ AWS ImpactX Top 50
-
-✔ 20+ National Hackathons
-
-✔ AQVH Finalist
-
-✔ ServiceNow 20+ Badges
+- Solved **400+ problems** on LeetCode
+- **1550+** LeetCode Rating
+- AWS ImpactX Challenge — **Top 50 Team**
+- Participated in **20+ National-Level Hackathons**
+- AQVH Hackathon Finalist
+- Zenith Hyderabad Final Round
+- Earned **20+ ServiceNow Badges**
 
 ---
 
-# 📈 GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
 
@@ -183,56 +154,28 @@ me = Developer()
 
 ---
 
-# 🌱 Currently Exploring
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=06B6D4&width=850&lines=Building+AI+Applications...;Learning+Cloud+Technologies...;Exploring+System+Design...;Preparing+for+SDE+Internships...;Contributing+to+Open+Source..."/>
-
----
-
-# ☕ Beyond Code
-
-🎨 UI Design
-
-⚡ Hackathons
-
-📚 Reading
-
-💡 AI Innovation
-
-🏸 Badminton
-
-🎵 Music
-
----
-
-# 📬 Connect
+## Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/neshandra-g286">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/neshandrag">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:neshandra07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6C63FF,50:06B6D4,100:7C3AED"/>
+*"Turning ideas into impactful software."*
 
-</p>
-
-<h3 align="center">
-
-<i>"Turning ideas into impactful software."</i>
-
-</h3>
+</div>
