@@ -30,7 +30,6 @@
 
 <img src="https://img.shields.io/badge/Location-Chennai,%20India-2563EB?style=flat-square"/>
 
-
 </p>
 
 ---
@@ -63,15 +62,12 @@ Focus       :: Artificial Intelligence
                Cloud Computing
 
 Strengths   :: Problem Solving
-               Team Collaboration
                Continuous Learning
 
 Mission     :: Turning ideas into impactful software.
 ```
 
 ---
-
-
 
 # Tech Stack
 
@@ -128,9 +124,6 @@ Mission     :: Turning ideas into impactful software.
 
 ---
 
-
-
-
 # Achievements
 
 - Solved **400+** problems on **LeetCode**
@@ -179,119 +172,3 @@ Mission     :: Turning ideas into impactful software.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neshandrag&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# Competitive Programming
-
-<div align="center">
-
-| Platform | Highlights |
-|:---------|:-----------|
-| **LeetCode** | 400+ Problems • 1550+ Rating |
-| **CodeChef** | Active Competitive Programmer |
-| **HackerRank** | Problem Solving & Java |
-| **GitHub** | Open Source Projects |
-
-</div>
-
----
-
-# Leadership & Community
-
-- Technical Event Organizer
-- Graphic Designer — Impact Club
-- Active Hackathon Participant
-- Team Collaboration & Mentorship
-- Open Source Contributor
-
----
-
-# Currently Exploring
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+AI+Powered+Applications...;Designing+Scalable+Full+Stack+Systems...;Learning+Cloud+Technologies...;Exploring+System+Design...;Contributing+to+Open+Source..."/>
-
-</div>
-
----
-
-# Development Philosophy
-
-```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Solve();
-
-    Improve();
-
-    Repeat();
-
-}
-```
-
----
-
-# Areas of Interest
-
-<div align="center">
-
-| Artificial Intelligence | Full Stack Development | Cloud Computing |
-|:-----------------------:|:----------------------:|:---------------:|
-| Machine Learning | System Design | Open Source |
-
-</div>
-
----
-
-
-# Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/neshandra-g286">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/neshandrag">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:neshandra07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=neshandrag&style=for-the-badge&color=6C63FF"/>
-
-</p>
-
----
-
-# Thanks for Visiting
-
-<div align="center">
-
-*"Code is more than syntax—it's the bridge between ideas and impact."*
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:2563EB,35:3B82F6,70:06B6D4,100:7C3AED"/>
-
-</div>
