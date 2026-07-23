@@ -14,8 +14,6 @@
 
 <img src="https://img.shields.io/badge/CGPA-9.20%20%2F%2010-6C63FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-orange?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/AWS%20ImpactX-Top%2050-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Hackathons-20%2B-success?style=for-the-badge"/>
