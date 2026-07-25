@@ -140,7 +140,6 @@ Mission     :: Turning ideas into impactful software.
 - AWS Cloud Foundations
 - ServiceNow Micro-Certifications
 - Shell Skills4Future AICTE Internship
-- Microsoft Learn Certifications
 - Oracle Learning Certifications
 
 ---
