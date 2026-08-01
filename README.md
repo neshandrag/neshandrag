@@ -4,12 +4,6 @@
 
 </p>
 
-<h3 align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Aspiring+Software+Development+Engineer;Creative+Mind+Building+Meaningful+Solutions;Passionate+About+AI+%26+Full+Stack+Development;Problem+Solver+%7C+Continuous+Learner+%7C+Innovator;Turning+Ideas+Into+Impactful+Software"/>
-
-</h3>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/CGPA-9.20%20%2F%2010-6C63FF?style=for-the-badge"/>
