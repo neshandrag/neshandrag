@@ -131,7 +131,7 @@ Mission     :: Turning ideas into impactful software.
 - AQVH Hackathon Finalist
 - Zenith Hyderabad Final Round
 - Earned **20+ ServiceNow Badges**
-- Organized multiple technical events at Chennai Institute of Technology
+- Organized technical events at Chennai Institute of Technology
 
 ---
 
