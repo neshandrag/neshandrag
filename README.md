@@ -148,7 +148,9 @@ Building AI systems, full-stack products, and shipping hackathon ideas
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=neshandrag&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=neshandrag&theme=tokyonight&hide_border=true)
+
 </p>
 
 ## GitHub Activity
