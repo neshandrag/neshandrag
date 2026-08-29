@@ -1,4 +1,3 @@
-
 <div align="center">
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563EB,35:3B82F6,70:06B6D4,100:7C3AED&text=Neshandra%20G&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn)](https://github.com/neshandrag)
@@ -6,7 +5,6 @@
 **Aspiring SDE · AI · Full Stack · Cloud**
 
 [![Email](https://img.shields.io/badge/neshandra07@gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:neshandra07@gmail.com)
-[![Phone](https://img.shields.io/badge/+91%206383433288-0A0A0A?style=flat-square&logo=whatsapp&logoColor=25D366)](tel:+916383433288)
 [![GitHub](https://img.shields.io/badge/neshandrag-0A0A0A?style=flat-square&logo=github)](https://github.com/neshandrag)
 [![LinkedIn](https://img.shields.io/badge/neshandra--g286-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/neshandra-g286)
 
@@ -66,17 +64,6 @@ Building AI systems, full-stack products, and shipping hackathon ideas
 
 ---
 
-## Experience
-
-| Role | Org | When |
-| :--- | :--- | :--- |
-| **CITBIF Intern** | Chennai Institute of Technology | May – Jun 2025 |
-| React / Tailwind UI for an AI Legal Compliance Platform · document workflows · live dashboards | | |
-| **Shell Skills4Future Intern** | Edunet Foundation | Oct – Nov 2025 |
-| Built **EVBot** — ML + Flask chatbot for EV charging & maintenance, with explainable insights | | |
-
----
-
 ## Stack
 
 **Languages**  
@@ -128,15 +115,19 @@ Building AI systems, full-stack products, and shipping hackathon ideas
 
 ---
 
-## GitHub
+## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neshandrag&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshandrag&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=neshandrag&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshandrag&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=neshandrag&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=neshandrag&theme=tokyonight&hide_border=true" />
+## GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neshandrag&theme=tokyo-night&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neshandrag&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
