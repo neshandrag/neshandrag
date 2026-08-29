@@ -132,29 +132,15 @@ Building AI systems, full-stack products, and shipping hackathon ideas
 
 ## GitHub Analytics
 
-<table align="center">
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=neshandrag&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=neshandrag&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=neshandrag&theme=tokyonight&hide_border=true)
-
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=neshandrag&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=neshandrag&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=neshandrag&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=680" alt="GitHub Streak" />
+</div>
 
 ## GitHub Activity
 
-<p align="center">
+<div align="center">
   <img src="https://ghchart.rshah.org/7C3AED/neshandrag" alt="GitHub Contribution Chart" />
-</p>
+</div>
