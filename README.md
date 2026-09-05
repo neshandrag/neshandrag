@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2563EB,35:3B82F6,70:06B6D4,100:7C3AED&text=Neshandra%20G&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn)](https://github.com/neshandrag)
 
-### Aspiring SDE · AI · Full Stack · Cloud
+### Aspiring SDE · AI · Full Stack 
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neshandra07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neshandrag)
