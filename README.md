@@ -16,19 +16,21 @@
 
 > Budding engineer with a burning desire to learn and grow. Skilled in problem-solving and innovation — collaborating in teams to turn ideas into impactful software.
 
-<table>
+<table width="100%">
 <tr>
-<th align="left">&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/whoami</code></th>
+<th align="left" colspan="2">&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/whoami</code></th>
 </tr>
 <tr>
-<td>
-<b>Name</b> :: Neshandra G<br>
-<b>Role</b> :: Aspiring Software Development Engineer<br>
-<b>Education</b> :: B.Tech IT · CIT · Sep 2024–May 2028<br>
-<b>CGPA</b> :: 9.20 / 10<br>
-<b>Focus</b> :: Artificial Intelligence · Full Stack<br>
-<b>Mission</b> :: Turning ideas into impactful software.
-</td>
+<td width="50%"><b>Name</b> :: Neshandra G</td>
+<td width="50%"><b>Role</b> :: Aspiring Software Development Engineer</td>
+</tr>
+<tr>
+<td><b>Education</b> :: B.Tech IT · CIT · Sep 2024–May 2028</td>
+<td><b>CGPA</b> :: 9.20 / 10</td>
+</tr>
+<tr>
+<td><b>Focus</b> :: Artificial Intelligence · Full Stack</td>
+<td><b>Mission</b> :: Turning ideas into impactful software.</td>
 </tr>
 </table>
 
