@@ -10,78 +10,45 @@
 
 </div>
 
-<br/>
+---
 
-<table>
-<thead>
-<tr>
-<th align="left">
-&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/about</code>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
+## About
 
 > Budding engineer with a burning desire to learn and grow. Skilled in problem-solving and innovation — collaborating in teams to turn ideas into impactful software.
 
-</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
+---
 
 <table>
-<thead>
 <tr>
 <th align="left">
 &nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/whoami</code>
 </th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>
 
-```text
-Name        :: Neshandra G
-Role        :: Aspiring Software Development Engineer
-Education   :: B.Tech Information Technology  ·  CIT  ·  Sep 2024–May 2028
-CGPA        :: 9.20 / 10
-Focus       :: Artificial Intelligence  ·  Full Stack
-Mission     :: Turning ideas into impactful software.
-```
+**Name** :: Neshandra G  
+**Role** :: Aspiring Software Development Engineer  
+**Education** :: B.Tech IT · CIT · Sep 2024–May 2028  
+**CGPA** :: 9.20 / 10  
+**Focus** :: Artificial Intelligence · Full Stack  
+**Mission** :: Turning ideas into impactful software.
 
 </td>
 </tr>
-</tbody>
 </table>
 
-<br/>
+---
 
-<table>
-<thead>
-<tr>
-<th align="left">
-&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/tech-stack</code>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
+## Tech Stack
 
-**Languages**
-
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries**
-
+**Frameworks & Libraries**  
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -90,8 +57,7 @@ Mission     :: Turning ideas into impactful software.
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**AI / ML**
-
+**AI / ML**  
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-2563EB?style=flat-square)
 ![Transformers](https://img.shields.io/badge/Transformers-F97316?style=flat-square)
@@ -101,15 +67,13 @@ Mission     :: Turning ideas into impactful software.
 ![Agent Automation](https://img.shields.io/badge/Agent_Automation-111827?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Cloud & Databases**
-
+**Cloud & Databases**  
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Tools & Protocols**
-
+**Tools & Protocols**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -118,80 +82,38 @@ Mission     :: Turning ideas into impactful software.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square)
 
-</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
+---
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<table>
-<thead>
-<tr>
-<th align="left">
-&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/achievements</code>
+<th align="left" width="50%">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>~/achievements</code>
+</th>
+<th align="left" width="50%">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>~/internships</code>
 </th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td valign="top">
 
-🏆 **UXplorer 2026** — Winner · Global Agentic AI · **$2,000**
-
-🥇 **MemoryVerse AI 2026** — Winner · Wooble
-
-📍 **Women Who Master 2026** — Zonal Round · Aspire For Her × Logitech
-
-☁️ **AWS ImpactX** — Top 50 · IIT Bombay
-
-🔬 **AQVH 2025** — Finalist · Top 10 teams
-
-💻 **LeetCode** — 400+ problems · Rating **1550+**
+🏆 **UXplorer 2026** — Winner · $2,000  
+🥇 **MemoryVerse AI 2026** — Winner · Wooble  
+📍 **Women Who Master 2026** — Zonal Round  
+☁️ **AWS ImpactX** — Top 50 · IIT Bombay  
+🔬 **AQVH 2025** — Finalist · Top 10  
+💻 **LeetCode** — 400+ · Rating 1550+
 
 </td>
-</tr>
-</tbody>
-</table>
-
-</td>
-<td width="50%" valign="top">
-
-<table>
-<thead>
-<tr>
-<th align="left">
-&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/internships</code>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
 <td valign="top">
 
-**ProofScript Intern** · Proofchain  
-`Apr – Jul 2026`
-- Built **ScriptPad** with live Indian-language transliteration
-- In production for **6,000+ writers** · Razorpay + marketplace
+**ProofScript Intern** · Proofchain · `Apr–Jul 2026`  
+ScriptPad transliteration · 6,000+ writers · Razorpay
 
-**AI/ML Intern** · Edunet (Shell Skills4Future)  
-`Oct – Nov 2025`
-- Hands-on ML / AI for real-world applications
-- Predictions and data-driven insights
+**AI/ML Intern** · Edunet (Shell Skills4Future) · `Oct–Nov 2025`  
+ML / AI for real-world predictions and insights
 
-**Full Stack Developer Intern** · CITBIF  
-`May – Jun 2025`
-- Designed and built **Inovex** (React / Tailwind)
-- Application review dashboards used in production
-
-</td>
-</tr>
-</tbody>
-</table>
+**Full Stack Intern** · CITBIF · `May–Jun 2025`  
+Inovex incubation platform · review dashboards in production
 
 </td>
 </tr>
@@ -200,51 +122,35 @@ Mission     :: Turning ideas into impactful software.
 <br/>
 
 <table>
-<thead>
 <tr>
-<th align="left">
+<th align="left" colspan="3">
 &nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/projects</code>
 </th>
 </tr>
-</thead>
-<tbody>
 <tr>
-<td>
-
-<table>
-<tr>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 **DataPrep**  
-Intelligent Dataset Repair & Model Training
-
-- KNN · Isolation Forest · CleanLab
-- Quality scores, drift alerts, PDF reports
-- NL-driven training · DVC + MLflow
+Dataset repair & model training  
+KNN · Isolation Forest · CleanLab · DVC / MLflow
 
 `Python` `FastAPI` `scikit-learn`
 
 </td>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 **MedicoTabs**  
-Multi-Agent Referral Lifecycle EHR
-
-- 5-stage Flight Tracker for referrals
-- 23 YOXA tool APIs · HMAC HITL sign-off
-- Patient portal with live status + PDFs
+Multi-agent referral EHR  
+5-stage Flight Tracker · 23 YOXA APIs · HITL
 
 `YOXA` `React` `Supabase`
 
 </td>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 **Quro**  
-Real-Time Clinic Queue Management
-
-- Socket.IO sync across reception, TV, phones
-- Adaptive wait-time estimation
-- AI chat · multilingual + TTS fallback
+Real-time clinic queue  
+Socket.IO sync · wait-time AI · multilingual chat
 
 `Node.js` `Socket.IO` `MongoDB`
 
@@ -252,76 +158,36 @@ Real-Time Clinic Queue Management
 </tr>
 </table>
 
-</td>
-</tr>
-</tbody>
-</table>
-
 <br/>
 
 <table>
-<thead>
 <tr>
 <th align="left">
 &nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/certificates</code>
 </th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>
 
-- Udemy: Full Stack Development
-- Introduction to Generative AI
-- Data Analytics with Python
-- AWS Cloud Practitioner Essentials
+Udemy: Full Stack Development · Introduction to Generative AI · Data Analytics with Python · AWS Cloud Practitioner Essentials
 
 </td>
 </tr>
-</tbody>
 </table>
 
-<br/>
+---
 
-<table>
-<thead>
-<tr>
-<th align="left">
-&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/analytics</code>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">
+## GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=neshandrag&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=neshandrag&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<br/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=neshandrag&theme=tokyonight&hide_border=true&card_width=680" alt="GitHub Streak" />
+<div align="center">
+  <img height="150" src="https://github-readme-stats.shion.dev/api?username=neshandrag&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=neshandrag&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=neshandrag&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-</td>
-</tr>
-</tbody>
-</table>
+## GitHub Activity
 
-<br/>
-
-<table>
-<thead>
-<tr>
-<th align="left">
-&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/activity</code>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">
-
-<img src="https://ghchart.rshah.org/7C3AED/neshandrag" alt="GitHub Contribution Chart" />
-
-</td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <img src="https://ghchart.rshah.org/7C3AED/neshandrag" alt="GitHub Contribution Chart" />
+</div>
