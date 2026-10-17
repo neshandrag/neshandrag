@@ -45,29 +45,6 @@ Mission     :: Turning ideas into impactful software.
 
 ---
 
-## Now
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Latest win**  
-Winner — UXplorer 2026, Global Agentic AI System Design  
-Prize Pool $2,000
-
-</td>
-<td width="50%" valign="top">
-
-**Currently**  
-B.Tech IT @ CIT · CGPA 9.20  
-Building AI systems, full-stack products, and shipping hackathon ideas
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -115,62 +92,95 @@ Building AI systems, full-stack products, and shipping hackathon ideas
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square)
 
-<br/>
+---
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-```text
-● ● ●  neshandrag@github: ~/achievements
+### 🏆 Achievements
 
-🏆  Winner — UXplorer 2026            Prize Pool $2,000
-🥇  Winner — MemoryVerse AI 2026      Wooble
-📍  Zonal Round — Women Who Master    Aspire For Her × Logitech
-☁️  Top 50 — AWS ImpactX              IIT Bombay
-🔬  Finalist — AQVH 2025              Top 10 teams
-💻  LeetCode                          400+ problems · Rating 1550+
+```text
+🔴 🟡 🟢  neshandrag@github ~/achievements
 ```
+
+🏆 **UXplorer 2026** — Winner · Global Agentic AI · **$2,000**  
+🥇 **MemoryVerse AI 2026** — Winner · Wooble  
+📍 **Women Who Master 2026** — Zonal Round · Aspire For Her × Logitech  
+☁️ **AWS ImpactX** — Top 50 · IIT Bombay  
+🔬 **AQVH 2025** — Finalist · Top 10 teams  
+💻 **LeetCode** — 400+ problems · Rating **1550+**
 
 </td>
 <td width="50%" valign="top">
 
+### 💼 Internships
+
 ```text
-● ● ●  neshandrag@github: ~/internships
-
-> Proofchain — ProofScript Intern
-  | ScriptPad transliteration · 6,000+ writers in production
-  | Razorpay payments + producer marketplace
-
-> Edunet (Shell Skills4Future) — AI/ML Intern
-  | ML / AI concepts for real-world applications
-  | Predictions and data-driven insights
-
-> CITBIF — Full Stack Developer Intern
-  | Inovex incubation platform (React / Tailwind)
-  | Application review dashboards in production
+🔴 🟡 🟢  neshandrag@github ~/internships
 ```
+
+**ProofScript Intern** · Proofchain  
+`Apr – Jul 2026`  
+- Built **ScriptPad** with live Indian-language transliteration  
+- In production for **6,000+ writers** · Razorpay + marketplace
+
+**AI/ML Intern** · Edunet (Shell Skills4Future)  
+`Oct – Nov 2025`  
+- Hands-on ML / AI for real-world applications  
+- Predictions and data-driven insights
+
+**Full Stack Developer Intern** · CITBIF  
+`May – Jun 2025`  
+- Designed and built **Inovex** (React / Tailwind)  
+- Application review dashboards used in production
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
+</table>
+
+### 📂 Projects
 
 ```text
-● ● ●  neshandrag@github: ~/projects
-
-> DataPrep — Intelligent Dataset Repair & Model Training
-  | KNN imputation, Isolation Forest outliers, CleanLab label checks
-  | Quality scores, drift alerts, PDF reports · NL training with DVC + MLflow
-
-> MedicoTabs — Multi-Agent Referral Lifecycle EHR
-  | 5-stage Flight Tracker with YOXA agents routing referrals end-to-end
-  | 23 YOXA tool APIs · HMAC-secured HITL doctor sign-off · patient portal
-
-> Quro — Real-Time Clinic Queue Management
-  | Socket.IO sync across reception, waiting-room TV, and patient phones
-  | Adaptive wait-time estimation + AI chat with multilingual / TTS fallback
+🔴 🟡 🟢  neshandrag@github ~/projects
 ```
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**DataPrep**  
+Intelligent Dataset Repair & Model Training
+
+- KNN · Isolation Forest · CleanLab
+- Quality scores, drift alerts, PDF reports
+- NL-driven training · DVC + MLflow
+
+`Python` `FastAPI` `scikit-learn`
+
+</td>
+<td width="33%" valign="top">
+
+**MedicoTabs**  
+Multi-Agent Referral Lifecycle EHR
+
+- 5-stage Flight Tracker for referrals
+- 23 YOXA tool APIs · HMAC HITL sign-off
+- Patient portal with live status + PDFs
+
+`YOXA` `React` `Supabase`
+
+</td>
+<td width="33%" valign="top">
+
+**Quro**  
+Real-Time Clinic Queue Management
+
+- Socket.IO sync across reception, TV, phones
+- Adaptive wait-time estimation
+- AI chat · multilingual + TTS fallback
+
+`Node.js` `Socket.IO` `MongoDB`
 
 </td>
 </tr>
