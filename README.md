@@ -8,20 +8,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neshandrag)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neshandra-g286)
 
-<br/>
-
-<img src="https://img.shields.io/badge/Winner-UXplorer%202026-FFD700?style=for-the-badge" alt="UXplorer Winner" />
-<img src="https://img.shields.io/badge/Winner-MemoryVerse%20AI%202026-F59E0B?style=for-the-badge" alt="MemoryVerse Winner" />
-<img src="https://img.shields.io/badge/CGPA-9.20%20%2F%2010-6C63FF?style=for-the-badge" alt="CGPA" />
-<img src="https://img.shields.io/badge/AWS%20ImpactX-Top%2050-2563EB?style=for-the-badge" alt="AWS ImpactX" />
-<img src="https://img.shields.io/badge/LeetCode-400%2B%20%7C%201550%2B-22C55E?style=for-the-badge" alt="LeetCode" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-20232A?style=for-the-badge" alt="B.Tech" />
-<img src="https://img.shields.io/badge/College-Chennai%20Institute%20of%20Technology-7C3AED?style=for-the-badge" alt="College" />
-<img src="https://img.shields.io/badge/AQVH'25-Finalist%20Top%2010-06B6D4?style=for-the-badge" alt="AQVH Finalist" />
-
 </div>
 
 ---
