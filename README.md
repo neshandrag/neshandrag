@@ -60,7 +60,7 @@ Prize Pool $2,000
 
 **Currently**  
 B.Tech IT @ CIT · CGPA 9.20  
-Building AI systems and full-stack products — DataPrep, MedicoTabs, Quro
+Building AI systems, full-stack products, and shipping hackathon ideas
 
 </td>
 </tr>
@@ -68,101 +68,113 @@ Building AI systems and full-stack products — DataPrep, MedicoTabs, Quro
 
 ---
 
-## Internships
+## 🛠️ Tech Stack
 
-- **ProofScript Intern** — Proofchain Pvt Ltd *(Apr – Jul 2026)*  
-  Built **ScriptPad**, a Fountain editor with live Indian-language transliteration, in production for **6,000+ writers** across India.
-- **AI/ML Intern** — Edunet Foundation (Shell Skills4Future) *(Oct – Nov 2025)*  
-  Hands-on machine learning and AI for real-world predictions and data-driven insights.
-- **Full Stack Developer Intern** — CITBIF, Chennai Institute of Technology *(May – Jun 2025)*  
-  Designed and built **Inovex**, a startup incubation platform used to regulate incubation applications.
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Projects
+**Frameworks & Libraries**
 
-- **DataPrep** | Intelligent Dataset Repair & Model Training Platform  
-  Dataset repair pipeline (KNN, Isolation Forest, CleanLab), quality/drift reports, and NL-driven model training with DVC + MLflow.
-- **MedicoTabs** | Multi-Agent Referral Lifecycle EHR  
-  5-stage Flight Tracker EHR with 23 YOXA tool APIs, HMAC-secured HITL doctor sign-off, and a live patient portal.
-- **Quro** | Real-Time Clinic Queue Management System  
-  Low-latency Socket.IO queue across reception, waiting-room TV, and patient phones, plus adaptive wait times and AI chat.
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
----
+**AI / ML**
 
-## Stack
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-2563EB?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-F97316?style=flat-square)
+![ML Algorithms](https://img.shields.io/badge/ML_Algorithms-0EA5E9?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-22C55E?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-06B6D4?style=flat-square)
+![Agent Automation](https://img.shields.io/badge/Agent_Automation-111827?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Cloud & Databases**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Tools & Protocols**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![YOXA](https://img.shields.io/badge/YOXA-2563EB?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square)
+
+<br/>
 
 <table>
 <tr>
-<td width="18%" valign="center"><b>Languages</b></td>
-<td>
+<td width="50%" valign="top">
 
-![Languages](https://skillicons.dev/icons?i=cpp,python,js&theme=dark)
+```text
+● ● ●  neshandrag@github: ~/achievements
+
+🏆  Winner — UXplorer 2026            Prize Pool $2,000
+🥇  Winner — MemoryVerse AI 2026      Wooble
+📍  Zonal Round — Women Who Master    Aspire For Her × Logitech
+☁️  Top 50 — AWS ImpactX              IIT Bombay
+🔬  Finalist — AQVH 2025              Top 10 teams
+💻  LeetCode                          400+ problems · Rating 1550+
+```
+
+</td>
+<td width="50%" valign="top">
+
+```text
+● ● ●  neshandrag@github: ~/internships
+
+> Proofchain — ProofScript Intern
+  | ScriptPad transliteration · 6,000+ writers in production
+  | Razorpay payments + producer marketplace
+
+> Edunet (Shell Skills4Future) — AI/ML Intern
+  | ML / AI concepts for real-world applications
+  | Predictions and data-driven insights
+
+> CITBIF — Full Stack Developer Intern
+  | Inovex incubation platform (React / Tailwind)
+  | Application review dashboards in production
+```
 
 </td>
 </tr>
 <tr>
-<td valign="center"><b>Frontend</b></td>
-<td>
+<td colspan="2" valign="top">
 
-![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark)
+```text
+● ● ●  neshandrag@github: ~/projects
 
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/UI%20%2F%20UX%20Design-7C3AED?style=for-the-badge" alt="UI/UX Design" />
+> DataPrep — Intelligent Dataset Repair & Model Training
+  | KNN imputation, Isolation Forest outliers, CleanLab label checks
+  | Quality scores, drift alerts, PDF reports · NL training with DVC + MLflow
 
-</td>
-</tr>
-<tr>
-<td valign="center"><b>Backend</b></td>
-<td>
+> MedicoTabs — Multi-Agent Referral Lifecycle EHR
+  | 5-stage Flight Tracker with YOXA agents routing referrals end-to-end
+  | 23 YOXA tool APIs · HMAC-secured HITL doctor sign-off · patient portal
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark)
-
-<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge" alt="REST APIs" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" alt="JWT" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge" alt="Socket.IO" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-
-</td>
-</tr>
-<tr>
-<td valign="center"><b>AI / ML</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="LLMs" />
-<img src="https://img.shields.io/badge/Transformers-F97316?style=for-the-badge" alt="Transformers" />
-<img src="https://img.shields.io/badge/ML%20Algorithms-0EA5E9?style=for-the-badge" alt="ML Algorithms" />
-<img src="https://img.shields.io/badge/Data%20Analytics-22C55E?style=for-the-badge" alt="Data Analytics" />
-<img src="https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge" alt="NLP" />
-<img src="https://img.shields.io/badge/Agent%20Automation-111827?style=for-the-badge" alt="Agent Automation" />
-
-</td>
-</tr>
-<tr>
-<td valign="center"><b>Tools</b></td>
-<td>
-
-![Tools](https://skillicons.dev/icons?i=git,github,docker,figma&theme=dark)
-
-<img src="https://img.shields.io/badge/YOXA-2563EB?style=for-the-badge" alt="YOXA" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+> Quro — Real-Time Clinic Queue Management
+  | Socket.IO sync across reception, waiting-room TV, and patient phones
+  | Adaptive wait-time estimation + AI chat with multilingual / TTS fallback
+```
 
 </td>
 </tr>
 </table>
-
----
-
-## Achievements
-
-- **Winner** — UXplorer 2026, Global Agentic AI System Design, Prize Pool $2,000
-- **Winner** — MemoryVerse AI Hackathon 2026 (Wooble)
-- **Zonal Round** — Women Who Master Hackathon 2026 (Aspire For Her × Logitech)
-- **Top 50** — AWS ImpactX Challenge, IIT Bombay
-- **Finalist** — Amaravati Quantum Valley Hackathon 2025 (Top 10 teams)
-- **Competitive Programming** — LeetCode: 400+ problems, Rating 1550+
 
 ---
 
@@ -172,13 +184,6 @@ Building AI systems and full-stack products — DataPrep, MedicoTabs, Quro
 - Introduction to Generative AI
 - Data Analytics with Python
 - AWS Cloud Practitioner Essentials
-
----
-
-## Volunteering
-
-- **Impact** — Graphical Designer
-- **Trojans** — Event Organiser (Technical Events)
 
 ---
 
