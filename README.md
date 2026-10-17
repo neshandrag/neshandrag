@@ -10,15 +10,40 @@
 
 </div>
 
----
+<br/>
 
-## About
+<table>
+<thead>
+<tr>
+<th align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/about</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
 
 > Budding engineer with a burning desire to learn and grow. Skilled in problem-solving and innovation — collaborating in teams to turn ideas into impactful software.
 
----
+</td>
+</tr>
+</tbody>
+</table>
 
-## whoami
+<br/>
+
+<table>
+<thead>
+<tr>
+<th align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/whoami</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
 
 ```text
 Name        :: Neshandra G
@@ -29,9 +54,24 @@ Focus       :: Artificial Intelligence  ·  Full Stack
 Mission     :: Turning ideas into impactful software.
 ```
 
----
+</td>
+</tr>
+</tbody>
+</table>
 
-## 🛠️ Tech Stack
+<br/>
+
+<table>
+<thead>
+<tr>
+<th align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/tech-stack</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
 
 **Languages**
 
@@ -78,58 +118,98 @@ Mission     :: Turning ideas into impactful software.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square)
 
----
+</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Achievements
+<table>
+<thead>
+<tr>
+<th align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/achievements</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
 
-```text
-🔴 🟡 🟢  neshandrag@github ~/achievements
-```
+🏆 **UXplorer 2026** — Winner · Global Agentic AI · **$2,000**
 
-🏆 **UXplorer 2026** — Winner · Global Agentic AI · **$2,000**  
-🥇 **MemoryVerse AI 2026** — Winner · Wooble  
-📍 **Women Who Master 2026** — Zonal Round · Aspire For Her × Logitech  
-☁️ **AWS ImpactX** — Top 50 · IIT Bombay  
-🔬 **AQVH 2025** — Finalist · Top 10 teams  
+🥇 **MemoryVerse AI 2026** — Winner · Wooble
+
+📍 **Women Who Master 2026** — Zonal Round · Aspire For Her × Logitech
+
+☁️ **AWS ImpactX** — Top 50 · IIT Bombay
+
+🔬 **AQVH 2025** — Finalist · Top 10 teams
+
 💻 **LeetCode** — 400+ problems · Rating **1550+**
+
+</td>
+</tr>
+</tbody>
+</table>
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Internships
-
-```text
-🔴 🟡 🟢  neshandrag@github ~/internships
-```
+<table>
+<thead>
+<tr>
+<th align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/internships</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
 
 **ProofScript Intern** · Proofchain  
-`Apr – Jul 2026`  
-- Built **ScriptPad** with live Indian-language transliteration  
+`Apr – Jul 2026`
+- Built **ScriptPad** with live Indian-language transliteration
 - In production for **6,000+ writers** · Razorpay + marketplace
 
 **AI/ML Intern** · Edunet (Shell Skills4Future)  
-`Oct – Nov 2025`  
-- Hands-on ML / AI for real-world applications  
+`Oct – Nov 2025`
+- Hands-on ML / AI for real-world applications
 - Predictions and data-driven insights
 
 **Full Stack Developer Intern** · CITBIF  
-`May – Jun 2025`  
-- Designed and built **Inovex** (React / Tailwind)  
+`May – Jun 2025`
+- Designed and built **Inovex** (React / Tailwind)
 - Application review dashboards used in production
+
+</td>
+</tr>
+</tbody>
+</table>
 
 </td>
 </tr>
 </table>
 
-### 📂 Projects
+<br/>
 
-```text
-🔴 🟡 🟢  neshandrag@github ~/projects
-```
+<table>
+<thead>
+<tr>
+<th align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/projects</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
 
 <table>
 <tr>
@@ -172,28 +252,76 @@ Real-Time Clinic Queue Management
 </tr>
 </table>
 
----
+</td>
+</tr>
+</tbody>
+</table>
 
-## Certificates
+<br/>
+
+<table>
+<thead>
+<tr>
+<th align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/certificates</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
 
 - Udemy: Full Stack Development
 - Introduction to Generative AI
 - Data Analytics with Python
 - AWS Cloud Practitioner Essentials
 
----
+</td>
+</tr>
+</tbody>
+</table>
 
-## GitHub Analytics
+<br/>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=neshandrag&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=neshandrag&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=neshandrag&theme=tokyonight&hide_border=true&card_width=680" alt="GitHub Streak" />
-</div>
+<table>
+<thead>
+<tr>
+<th align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/analytics</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
 
-## GitHub Activity
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=neshandrag&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=neshandrag&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=neshandrag&theme=tokyonight&hide_border=true&card_width=680" alt="GitHub Streak" />
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/7C3AED/neshandrag" alt="GitHub Contribution Chart" />
-</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+
+<table>
+<thead>
+<tr>
+<th align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;<code>neshandrag@github: ~/activity</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
+
+<img src="https://ghchart.rshah.org/7C3AED/neshandrag" alt="GitHub Contribution Chart" />
+
+</td>
+</tr>
+</tbody>
+</table>
